@@ -5,7 +5,7 @@ import shutil
 from pathlib import Path
 
 EXTENSIONS_TO_CLEAN = [".tmp", ".log", ".pyc"]
-DIRS_TO_DELETE = ["_pycache_"]
+DIRS_TO_DELETE = ["__pycache__"]
 
 def clean_folder(target_path):
     target = Path(target_path).resolve()

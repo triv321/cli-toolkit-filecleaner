@@ -5,4 +5,5 @@ This script recursively deletes ALL '.tmp' '.log', files and '__pycache__' folde
 ## Usage
 
 '''bash
+
 python file_cleaner.py

@@ -56,7 +56,9 @@ cd /d "C:\path\to\project"
 
 *Use absolute paths with double quotes.
 
-#
+---
+
+##
  Automate via Task Scheduler/Cron:
 
    - Open Task Scheduler
@@ -67,7 +69,7 @@ cd /d "C:\path\to\project"
 
    - Save and test
 
-#
+##
 Troubleshooting
 
     If .log is empty, verify script paths and logging setup
@@ -80,7 +82,7 @@ Troubleshooting
 
     Make sure .py files run manually without issues before scheduling
 
-#
+##
 How to Stop the Script
 
 The script runs indefinitely by design. To stop:

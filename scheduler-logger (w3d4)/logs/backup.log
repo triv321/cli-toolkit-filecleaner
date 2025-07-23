@@ -1,0 +1,8 @@
+2025-07-23 20:40:20,669 - INFO - Backup stdout: backup startedd
+backup finish
+Backup created: backups\test_backup_20250723_204020.zip
+2025-07-23 20:40:20,669 - INFO - Backup ran successfully
+2025-07-23 20:40:40,829 - INFO - Backup stdout: backup startedd
+backup finish
+Backup created: backups\test_backup_20250723_204040.zip
+2025-07-23 20:40:40,829 - INFO - Backup ran successfully

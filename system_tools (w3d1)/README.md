@@ -7,3 +7,7 @@ This script recursively deletes ALL '.tmp' '.log', files and '__pycache__' folde
 '''bash
 
 python file_cleaner.py
+
+## License
+
+this is built under MIT license
